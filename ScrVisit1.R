@@ -7,6 +7,7 @@
 # correr el ScrMaster.R
 # Crea: dfpatCharFinalV1
 # En 25/08/2024 se crea el repositorio en github, esta línea se creó en lenovo
+# esta línea se pone después de git push origin main --force
 #___________________________________
 
 library(tidyverse)
